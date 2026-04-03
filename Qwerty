@@ -1,6 +1,7 @@
 main btanch is updating by feature1 branch as to show third person also working here
-<<<<<<< HEAD
 checking rebase
 checking the conflict in remote so changing
 checking the conflict in remote last time 1st change by feature1
+checking the conflict in remote last time 1st change by feature1
+updating Qwerty file in feature1 branch
 resolved conflicts in local. and now testing in remote
